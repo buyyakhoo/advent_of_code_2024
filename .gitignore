@@ -1,2 +1,5 @@
 **/*.class
 **/**/*.jar
+
+# excluded file
+day_18/ram_run_part2_dp.js
